@@ -1,1 +1,1 @@
-# Beginning-T-SQL
+# Beginning T-SQL
